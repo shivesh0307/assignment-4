@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\dotnet\TempService\TempService\bin\Debug\netcoreapp3.1\TempService.deps.json
+C:\Users\HP\Desktop\dotnet\TempService\TempService\bin\Debug\netcoreapp3.1\TempService.dll
+C:\Users\HP\Desktop\dotnet\TempService\TempService\bin\Debug\netcoreapp3.1\TempService.pdb
+C:\Users\HP\Desktop\dotnet\TempService\TempService\obj\Debug\netcoreapp3.1\TempService.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\dotnet\TempService\TempService\obj\Debug\netcoreapp3.1\TempService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dotnet\TempService\TempService\obj\Debug\netcoreapp3.1\TempService.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dotnet\TempService\TempService\obj\Debug\netcoreapp3.1\TempService.AssemblyInfo.cs
+C:\Users\HP\Desktop\dotnet\TempService\TempService\obj\Debug\netcoreapp3.1\TempService.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dotnet\TempService\TempService\obj\Debug\netcoreapp3.1\TempService.dll
+C:\Users\HP\Desktop\dotnet\TempService\TempService\obj\Debug\netcoreapp3.1\TempService.pdb
